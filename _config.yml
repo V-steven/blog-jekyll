@@ -1,0 +1,77 @@
+# Basic
+title: Yutao Gan
+subtitle: 汇智园
+description: 欢迎来到我的个人网站~
+# 头像里面的标题
+avatarTitle: Gump
+# 头像里面的描述
+avatarDesc: 深度学习菜鸟
+url: "http://www.ganyutao.com"
+
+# Comment
+comment:
+    provider: 
+    duoshuo:
+    short_name: Gump 
+
+# Social
+social:
+    weibo: 1005052857330790
+    weixing: GanYT_
+    github: Gump-II
+    # twitter: 
+    mail: hyganyutao@gmail.com
+    csdn: 
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 144d500dd9ac4a65465a14b95f3e4ade 
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+#ga:
+# id: UA-84134159-3   
+#  host: auto  
+
+
+
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}   
+    - {title: 留言, description: comment, url: '/comment'}
+    - {title: 关于, description: about, url: '/about'}
+
+          
+    
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 20
+paginate_path: "page/:num/"
+
+
+valine:
+  enable: true
+  appId: Td3VfcogN9e26MtWIDLfxid9-gzGzoHsz
+  appKey: QGjVNsT5gzc2WUgLIAJrr8nW
+
+  #appId: cys9pxi6G
+  #appKey: 9a3284b5092d00dac584e64205d493dd
+
+
