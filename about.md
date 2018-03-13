@@ -21,7 +21,7 @@ date: 2017-11-09
 <li style="color:black"><a href="http://www.iconfont.cn/" > [Iconfont]</a> 阿里图标库，非常齐全的图标库. <a href="https://tinypng.com/" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tiny]</a> 智能PNG和JPEG压缩.</li>
 <li style="color:black"><a href="http://www.wallconvert.com/" >[Wallconvert]</a>和<a href="https://wallpaperfx.com/" >[wallpaperfx]</a>  非常丰富的高清桌面背景.</li>
 <li style="color:black"><a href="https://eyun.baidu.com/enterprise/share/init?cid=8272058700880591108&uk=3171722477&sid=201709257508717666" >[Pan Download]</a>  百度网盘不限速下载软件，提取码laod.</li>
-<li style="color:black"><a href="https://github.com/lltcggie/waifu2x-caffe" >[waifu2x-caffe]</a> 图片放大神器，PhotoZoom软件的s-spline算法，效果还算不错.<a style="http://waifu2x.udp.jp/index.zh-CN.html">[在线版]</a>.</li>
+<li style="color:black"><a href="https://github.com/lltcggie/waifu2x-caffe" >[waifu2x-caffe]</a> 图片放大神器，PhotoZoom软件的s-spline算法，效果还算不错.<a href="http://waifu2x.udp.jp/index.zh-CN.html">[在线版]</a>.</li>
 <li style="color:black"><a href="https://cli.im/deqr" >[草料]</a>草料二维码生成器.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tool.chinaz.com/Tools/Unicode.aspx" >[unicode]</a>Unicode编码在线转换.</li>
 </ul>
 
@@ -36,7 +36,7 @@ date: 2017-11-09
 <h3>Theme </h3>   
 <ul>
 <li>你也想搭建类似的博客，可以参考博文<a href="/2015/12/GitHub_blog/">[开篇-GitHub上搭建Blog批注] </a></li>
-<li>之前我用的这个模板<a herf="https://github.com/Gump-II/Gump-II.github.io">[仓库]</a>，非常简洁的一个模板，谢谢给我一个star。之后改用了这个模板，<a herf="https://github.com/MengZheK/kangblog.github.io">[仓库]</a>地址.</li>
+<li>之前我用的这个模板<a href="https://github.com/Gump-II/Gump-II.github.io">[仓库]</a>，非常简洁的一个模板，谢谢给我一个star。之后改用了这个模板，<a href="https://github.com/MengZheK/kangblog.github.io">[仓库]</a>地址.</li>
 </ul>
 
 
