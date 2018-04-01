@@ -264,7 +264,7 @@ p {
     margin-bottom: 10px;
     margin-top: 5px;
     line-height: 1.7em;
-    padding-left: 20px;
+    padding-left: 4px;
 }
 
 strong {
@@ -279,7 +279,7 @@ blockquote {
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 10px;
-    margin-left: 20px;
+    margin-left: 4px;
     font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     font-weight: lighter;
     font-size: 1em;
@@ -1366,6 +1366,9 @@ input[type="tel"]:-ms-input-placeholder {
     }
 }
 @media all and (max-width: 420px) {
+	p {
+    padding-left: 0px!important;
+   }
     .panel-main__inner {
         padding: 0 5%;
     }
