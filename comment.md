@@ -3,42 +3,83 @@ layout: page
 title: 留言板「MESSAGE」 
 ---
 
-## 欢迎来访本人的博客，祝大家快乐高兴每一天
+
 <a  target="_blank"> </a>
-
-### 有什么话要对我说吗
-### 这里是你畅所欲言的地方，也可以聊天或咨询
-### 可以交流，可以感叹，可以发飙，但不可以订外卖....
-
 <a  target="_blank"> </a> 
 <a  target="_blank"> </a>   
 
 
 
 <html lang="en">
+<style>
+    .site-title {
+        font-weight:900;
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Pacifico';
+        margin: 0 0 20px 0;
+        position: relative;
+        color: #4398ed;
+    }
+    
+    .section-name span {
+        display: inline-block;
+        position: relative;
+        padding-bottom: 15px;
+    }
+    
+    label.main {
+        display: inline-block;
+        width: 212px;
+        height: 79px;
+        background: url(../images/stay-informed.png) no-repeat;
+        text-indent: -9999px;
+        margin-right: 20px;
+    }
+    
+    .w-text {
+        width: 86%;
+        margin: 0 auto;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+    
+    .hr-style {
+        display: block;
+        width: 50%!important;
+        margin: 10px auto!important;
+        border-top: 1px solid #DDDDDD;
+    }
+</style>
 
 <body>
-<!--PC版-->
-<div class="type">
-    <a id="typeWriter" href="#"></a>
-</div>
-<div id="SOHUCS" sid=""></div>
-<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
-<script type="text/javascript">
-window.changyan.api.config({
-appid: 'cys9pxi6G',
-conf: '9a3284b5092d00dac584e64205d493dd'
-});
 
+    <h1 class="site-title">
+        Welcome
+    </h1>
+    <!-- /.site-title -->
+     <p class="w-text" style="font-size:20px">Welcome to my blog and wish everyone happy every day. </p>
+    <hr class="hr-style">
+    <p class="w-text">Is there anything to say to me? This is where you speak freely, you can also chat or consult, you can communicate, you can sigh, you can go crazy, but you can't order take-out food.</p>
 
+    <label for="email" class="main">Stay informed when we will be back</label>
 
-
-</script>
+    <!--PC版-->
+    <div class="type">
+        <a id="typeWriter" href="#"></a>
+    </div>
+    <div id="SOHUCS" sid=""></div>
+    <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js"></script>
+    <script type="text/javascript">
+        window.changyan.api.config({
+            appid: 'cys9pxi6G',
+            conf: '9a3284b5092d00dac584e64205d493dd'
+        });
+    </script>
 
 </body>
 
 </html>
-
 
 
 
