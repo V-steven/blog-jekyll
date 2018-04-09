@@ -11,7 +11,7 @@ Jekyll dependencies: Ruby, bundler
 
 ## access blog template
 
-> $git clone https://github.com/MengZheK/kangblog.github.io.git
+> $git clone https://github.com/Gump-II/blog-jekyll.git
 
 > $Jekyll server
 

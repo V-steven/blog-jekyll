@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 留言板「MESSAGE」 
+title: 「MESSAGE」 
 ---
 
 
@@ -50,20 +50,31 @@ title: 留言板「MESSAGE」
         margin: 10px auto!important;
         border-top: 1px solid #DDDDDD;
     }
+	label.gif{
+	    display: inline-block;
+        width: 212px;
+        height: 150px;
+        background: url(../images/nima.gif) no-repeat;
+        text-indent: -9999px;
+        margin-right: 20px;
+        float:right;
+	}
 </style>
 
 <body>
-
+	
     <h1 class="site-title">
         Welcome
     </h1>
     <!-- /.site-title -->
-     <p class="w-text" style="font-size:20px">Welcome to my blog and wish everyone happy every day. </p>
-    <hr class="hr-style">
-    <p class="w-text">Is there anything to say to me? This is where you speak freely, you can also chat or consult, you can communicate, you can sigh, you can go crazy, but you can't order take-out food.</p>
+    <div>
+        <p class="w-text" style="font-size:20px">Welcome to my blog and wish everyone happy every day. </p>
+        <hr class="hr-style">
+        <p class="w-text">Is there anything to say to me? This is where you speak freely, you can also chat or consult, you can communicate, you can sigh, you can go crazy, but you can't order take-out food.</p>
 
-    <label for="email" class="main">Stay informed when we will be back</label>
-
+        <label for="email" class="main">Stay informed when we will be back</label>
+        <label class="gif"></label>
+    </div>
     <!--PC版-->
     <div class="type">
         <a id="typeWriter" href="#"></a>
